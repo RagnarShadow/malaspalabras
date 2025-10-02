@@ -1,2 +1,4 @@
 humano
 humain
+player
+jugador
